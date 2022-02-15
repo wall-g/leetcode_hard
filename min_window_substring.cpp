@@ -1,4 +1,5 @@
 //76: Minimum Window Substring
+//topics: sliding window, hashmap
 string minWindow(string s, string t) {
         int n = s.length();
         int m = t.length();
